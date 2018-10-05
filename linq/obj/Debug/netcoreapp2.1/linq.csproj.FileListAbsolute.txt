@@ -1,0 +1,11 @@
+C:\code\c#\linq\bin\Debug\netcoreapp2.1\linq.deps.json
+C:\code\c#\linq\bin\Debug\netcoreapp2.1\linq.runtimeconfig.json
+C:\code\c#\linq\bin\Debug\netcoreapp2.1\linq.runtimeconfig.dev.json
+C:\code\c#\linq\bin\Debug\netcoreapp2.1\linq.dll
+C:\code\c#\linq\bin\Debug\netcoreapp2.1\linq.pdb
+C:\code\c#\linq\obj\Debug\netcoreapp2.1\linq.csprojAssemblyReference.cache
+C:\code\c#\linq\obj\Debug\netcoreapp2.1\linq.csproj.CoreCompileInputs.cache
+C:\code\c#\linq\obj\Debug\netcoreapp2.1\linq.AssemblyInfoInputs.cache
+C:\code\c#\linq\obj\Debug\netcoreapp2.1\linq.AssemblyInfo.cs
+C:\code\c#\linq\obj\Debug\netcoreapp2.1\linq.dll
+C:\code\c#\linq\obj\Debug\netcoreapp2.1\linq.pdb
